@@ -1,0 +1,6 @@
+#ifndef FUNCION_H
+#define FUNCION_H
+
+//LA FUNCIÓN EN CUESTIÓN
+
+#endif // FUNCION_H
